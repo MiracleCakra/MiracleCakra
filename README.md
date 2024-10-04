@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miraclecakra&label=Profile%20views&color=0e75b6&style=flat" alt="miraclecakra" /> </p>
 
-- 🌱 I’m currently learning **Python, MySql**
+- 🌱 Keep learning
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
