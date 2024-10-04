@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cakra Wangsa</h1>
-<h3 align="center">student of informatics engineering state polytechnic of malang</h3>
+<h1 align="center">Hello mate👋</h1>
+<h3 align="center"></h3>
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/44cc690c-c901-4666-b75e-e0a6af6f27b7" alt="GIF">
