@@ -1,7 +1,7 @@
 # <p align="center"><strong>Start. Code. Repeat. 🔁</strong></p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Information+Technology+Student;Always+Learning+New+Technologies;Open+to+Collaboration!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Information+Technology+Student;Data+Enthusiast;Open+to+Collaboration!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
