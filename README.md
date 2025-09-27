@@ -1,5 +1,3 @@
-<p align="center"><strong>Start. Analyze. Repeat. 🔁</strong></p>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Data+Analyst+Enthusiast;Data+Mining+Enthusiast;Data+Scientist+Enthusiast;Open+to+Collaboration!" alt="Typing SVG" />
 </div>
@@ -71,28 +69,6 @@ A data analysis project for **Datathon Jatim 2025 (Komdigi Jawa Timur)** focusin
 - 🏅 **Result:** Rank **22/51** (score **83.85**)  
 - 🧰 **Stack:** Python, Jupyter Notebook
 
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="www.linkedin.com/in/cakra-wangsa-m-a-w-08753b330" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</div>
-
----
-
-## 💡 Fun Facts
-
-- 🎯 I'm passionate about creating innovative solutions
-- 🌱 Always learning and exploring new technologies
-- 👥 Love collaborating on open-source projects
-- 🎮 Enjoy gaming in my free time
 
 ---
 
