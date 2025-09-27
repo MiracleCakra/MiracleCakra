@@ -29,8 +29,8 @@ Currently, I’m actively working on projects around:
 ### Languages & Frameworks
 - **Programming**: Python, SQL  
 - **Data/Scientific**: Pandas, NumPy, SciPy  
-- **ML/DL**: scikit-learn, PyTorch, TensorFlow/Keras  
-- **Visualization**: Matplotlib, Seaborn, Plotly  
+- **ML/DL**: scikit-learn, PyTorch, TensorFlow  
+- **Visualization**: Matplotlib, Seaborn, Plotly, Looker Studio
 - **Databases**: MySQL, PostgreSQL, SQLite  
 - **Tools**: Jupyter Notebook, Git, GitHub, VS Code, Docker
 
