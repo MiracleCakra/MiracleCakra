@@ -1,7 +1,7 @@
 <p align="center"><strong>Start. Analyze. Repeat. 🔁</strong></p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Data+Analyst;Data+Mining+Enthusiast;Data+Scientist;Open+to+Collaboration!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Data+Analyst+Enthusiast;Data+Mining+Enthusiast;Data+Scientist+Enthusiast;Open+to+Collaboration!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -60,12 +60,17 @@ Currently, I’m actively working on projects around:
 
 ## 🌟 Featured Projects
 
-<!-- You can add your featured projects here -->
-```
-🔧 Currently working on exciting projects!
-📝 Will be updated with amazing repositories soon
-🎯 Stay tuned for innovative solutions
-```
+### 🚩 [Tim Maju Lancar — Datathon Jatim 2025](https://github.com/FarrelAD/Tim-Maju-Lancar-Datathon-Jatim-2025)
+A data analysis project for **Datathon Jatim 2025 (Komdigi Jawa Timur)** focusing on access & quality of education/public facilities, with a case study on **Sekolah Luar Biasa (SLB) in East Java**.
+
+[![Stars](https://img.shields.io/github/stars/FarrelAD/Tim-Maju-Lancar-Datathon-Jatim-2025)](https://github.com/FarrelAD/Tim-Maju-Lancar-Datathon-Jatim-2025/stargazers)
+[![Forks](https://img.shields.io/github/forks/FarrelAD/Tim-Maju-Lancar-Datathon-Jatim-2025)](https://github.com/FarrelAD/Tim-Maju-Lancar-Datathon-Jatim-2025/network/members)
+[![Last commit](https://img.shields.io/github/last-commit/FarrelAD/Tim-Maju-Lancar-Datathon-Jatim-2025)](https://github.com/FarrelAD/Tim-Maju-Lancar-Datathon-Jatim-2025/commits/main)
+
+- 🎛️ **Live Dashboard:** https://huggingface.co/spaces/Tim-Maju-Lancar-Datathon/Dashboard-Tim-Maju-Lancar-Datathon-Jatim-2025  
+- 🏅 **Result:** Rank **22/51** (score **83.85**)  
+- 🧰 **Stack:** Python, Jupyter Notebook
+
 
 ---
 
