@@ -9,7 +9,7 @@
 Hello! I'm **Cakra Wangsa**, an Information Technology student and **data enthusiast** focusing on **data analysis, data mining, and data science**.  
 I enjoy transforming raw data into **clear insights**, building **reliable models**, and telling the story behind the numbers through **effective visualizations**.
 
-I believe data is more than just numbers—it’s a medium to make **better decisions** and create **real-world impact**. I’m always open to new challenges, collaborations, and constructive discussions to grow together.
+I believe data is more than just numbers it’s a medium to make **better decisions** and create **real-world impact**. I’m always open to new challenges, collaborations, and constructive discussions to grow together.
 
 Currently, I’m actively working on projects around:
 - 📊 **Exploratory Data Analysis (EDA)** & visualization for actionable insights
