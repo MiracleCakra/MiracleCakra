@@ -1,37 +1,41 @@
-# <p align="center"><strong>Start. Code. Repeat. 🔁</strong></p>
+<p align="center"><strong>Start. Analyze. Repeat. 🔁</strong></p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Information+Technology+Student;Data+Enthusiast;Open+to+Collaboration!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Data+Analyst;Data+Mining+Enthusiast;Data+Scientist;Open+to+Collaboration!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-Hello! I'm **Cakra Wangsa**, an Information Technology student with a passionate drive for exploring the world of technology and programming. My curiosity fuels my continuous learning journey, pushing me to try new things and enhance my skills across various IT domains.
+Hello! I'm **Cakra Wangsa**, an Information Technology student and **data enthusiast** focusing on **data analysis, data mining, and data science**.  
+I enjoy transforming raw data into **clear insights**, building **reliable models**, and telling the story behind the numbers through **effective visualizations**.
 
-I believe technology is more than just a tool—it's a bridge to create meaningful solutions and real impact in everyday life. I'm always open to new challenges, project collaborations, and constructive discussions that can help us grow together.
+I believe data is more than just numbers—it’s a medium to make **better decisions** and create **real-world impact**. I’m always open to new challenges, collaborations, and constructive discussions to grow together.
 
-Currently, I'm actively developing various projects, both individual and collaborative, focusing on:
-- 🌐 Web Development
-- 📊 Data Analysis & Visualization
-- 🤖 Intelligent Systems
-- 📱 Mobile Applications
+Currently, I’m actively working on projects around:
+- 📊 **Exploratory Data Analysis (EDA)** & visualization for actionable insights
+- 🤖 **Machine Learning** (classification, regression, clustering, time series)
+- 🧠 **Model Explainability** (feature importance, SHAP)
+- 🗂️ **Data Cleaning & Feature Engineering**
+- 🧪 **Experiment Tracking & Reproducible Pipelines**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,python,laravel,mysql,flutter,php,html,css,js,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,pytorch,tensorflow,postgres,mysql,sqlite,git,github,linux,docker,vscode,jupyter" alt="Tech Stack" />
 </div>
 
 ### Languages & Frameworks
-- **Backend**: PHP, Laravel, Python
-- **Frontend**: HTML, CSS, JavaScript
-- **Mobile**: Flutter, Android Studio
-- **Database**: MySQL
-- **Tools**: Git, GitHub, VS Code
+- **Programming**: Python, SQL  
+- **Data/Scientific**: Pandas, NumPy, SciPy  
+- **ML/DL**: scikit-learn, PyTorch, TensorFlow/Keras  
+- **Visualization**: Matplotlib, Seaborn, Plotly  
+- **Databases**: MySQL, PostgreSQL, SQLite  
+- **Tools**: Jupyter Notebook, Git, GitHub, VS Code, Docker
 
 ---
+
 
 ## 📊 GitHub Analytics
 
