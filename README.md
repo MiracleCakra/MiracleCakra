@@ -18,7 +18,7 @@ Currently, I’m actively working on projects around:
 
 ---
 
-## 🛠️ Tech Stack — Focused on Data Analytics & Data Science
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,postgres,mysql,sqlite,git,github,linux,docker,vscode,jupyter" alt="Tech Stack" />
