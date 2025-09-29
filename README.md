@@ -18,19 +18,28 @@ Currently, I’m actively working on projects around:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack — Focused on Data Analytics & Data Science
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,pytorch,tensorflow,postgres,mysql,sqlite,git,github,linux,docker,vscode,jupyter" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,postgres,mysql,sqlite,git,github,linux,docker,vscode,jupyter" alt="Tech Stack" />
 </div>
 
-### Languages & Frameworks
-- **Programming**: Python, SQL  
-- **Data/Scientific**: Pandas, NumPy, SciPy  
-- **ML/DL**: scikit-learn, PyTorch, TensorFlow  
-- **Visualization**: Matplotlib, Seaborn, Plotly, Looker Studio
-- **Databases**: MySQL, PostgreSQL, SQLite  
-- **Tools**: Jupyter Notebook, Git, GitHub, VS Code, Docker
+---
+
+### ⭐ Core (Now)
+- **Spreadsheet & BI:** Excel (PivotTable, Power Query, Data Analysis ToolPak), Google Sheets, Looker Studio  
+- **Python Analytics:** Pandas, NumPy, SciPy, **scikit-learn**  
+- **Visualization:** Matplotlib, Seaborn, Plotly  
+- **SQL Databases:** MySQL, PostgreSQL, SQLite
+
+### 🧰 Tooling & Workflow
+- **Environment:** Jupyter Notebook, VS Code  
+- **Versioning & Dev:** Git, GitHub, Linux, Docker
+
+### 🧪 Exploring
+- **Deep Learning:** PyTorch, TensorFlow
+
+
 
 ---
 
