@@ -17,7 +17,6 @@ I specialize in the end-to-end data lifecycle: extracting massive datasets from 
 
 ```javascript
 const operator = {
-    name: "Cakra Wangsa",
     role: "Data Professional | IT Student",
     core_stack: ["Elasticsearch", "PostgreSQL", "Python", "Power BI", "Looker"],
     mission: "Transforming complex queries into intuitive, actionable data stories."
