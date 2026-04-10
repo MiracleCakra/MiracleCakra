@@ -11,9 +11,9 @@
 
 ---
 
-## The Executive Summary
-
 I specialize in the end-to-end data lifecycle: extracting massive datasets from complex databases, engineering them via Python, and designing high-level executive dashboards. My architecture bridges the gap between raw backend data and strategic business decisions.
+
+---
 
 ```javascript
 const operator = {
